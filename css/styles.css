@@ -1,0 +1,33 @@
+.blog-posts {
+  float:right;
+  width:500px;
+  border:1px solid purple;
+  padding:15px;
+  margin:15px;
+  background-color:  #200066;
+  color: white;
+}
+
+.about-shows {
+  float:left;
+  width:200px;
+  border:1px solid purple;
+  background-color:  #200066;
+  color: white;
+  padding:15px;
+  margin:15px;
+}
+
+.cover {
+  float:right;
+  width:auto;
+}
+
+body {
+  background-color:  #eee6ff;
+}
+
+h1 {
+  text-align: center;
+  color: #200066;
+}
